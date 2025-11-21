@@ -52,7 +52,7 @@ Gracias a estas configuraciones, el fondo siempre se dibuja primero, sin interfe
 
 ## Resultados
 
-![Animación](ig_11.gif)
+![Animación](Ig_11.gif)
 
 https://4kc9cq.csb.app/
 https://codesandbox.io/p/sandbox/ig2526-s6-forked-4kc9cq
